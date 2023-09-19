@@ -1,3 +1,5 @@
+#At first, I have a hard time understanding coding problem description in English. I thought I need to get two types of variable at once. But  it was easy problem :)
+
 /**
  * @param {number} n
  * @return {Function} counter
